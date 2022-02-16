@@ -2,6 +2,7 @@ import grid from 'gridfs-stream';
 import mongoose from 'mongoose';
 
 const url = 'http://localhost:8000';
+const url = 'https://blogsitebackend0.herokuapp.com';
 
 
 let gfs;
